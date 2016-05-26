@@ -17,4 +17,4 @@ ruppee = 180
 dollar = inr_to_dollars(ruppee)
 print('The converted dollar amount of ', ruppee, 'is ', dollar, '\n')
 
-myModule.printName()
+myModule.print_name()
